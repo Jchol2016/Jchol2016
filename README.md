@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jchol2016
 - 👀 I’m interested in cloud computing, Data Engineering
-- 🌱 I’m currently learning AWS, Hadoop, CI/CD through GitLab
+- 🌱 I’m currently learning AWS, Hadoop, CI/CD through GitLab and obtained certifications on Snowflake Snowpro Core and AZ-900
 - 💞️ I’m looking to collaborate on any hand on Project in related fields
 - 📫 I can be reach @jchol_2018@yahoo.com and please don't send me anything that is not project related. Thank you.
 
