@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Jchol2016
-- 👀 I’m interested in cloud computing, Data Engineering
-- 🌱 I’m currently learning AWS, Hadoop, CI/CD through GitLab and obtained certifications on Snowflake Snowpro Core and AZ-900
-- 💞️ I’m looking to collaborate on any hand on Project in related fields
-- 📫 I can be reach @jchol_2018@yahoo.com and please don't send me anything that is not project related. Thank you.
+Markdown
+# Hi there, I'm John 👋
+Welcome to my GitHub profile! I'm a technology enthusiast with a passion for building solutions in the cloud, engineering data pipelines, and exploring the latest advancements in AI-powered test automation.
+## 🚀 About Me
+- 👀 Interested in **Cloud Computing**, **Data Engineering**, and **QA AI Automation**
+- 🌱 Currently learning and expanding my expertise in:
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- CI/CD practices and DevOps workflows
+- Playwright and Model Context Protocol (MCP) Servers
+- 🏆 Certified in:
+- Snowflake SnowPro Core
+- Microsoft Azure Fundamentals (AZ-900)
+- 💡 Always eager to learn new technologies and apply them to real-world projects
+## 🤝 Let's Collaborat
+I'm actively looking to collaborate on hands-on projects involving:
+- Cloud Architecture & Migration
+- Data Engineering & ETL Pipelines
+- Data Warehousing & Analytics
+- DevOps & CI/CD Automation
+- Playwright Test Automation
+- AI-assisted Quality Engineering
 
-<!---
-Jchol2016/Jchol2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+If you're working on an exciting project in any of these areas, I'd love to contribute and learn together.
+## 🛠️ Technologies & Interests
+`AWS` • `Azure` • `Snowflake` • `Data Engineering` • `Playwright` • `MCP Servers` • `CI/CD` • `DevOps` • `QA Automation`
+## 📫 Contact Me
+Reach me at **jchol_2018@yahoo.com**
+> Please contact me for project collaborations or open-source opportunities. Thank you!
 --->
